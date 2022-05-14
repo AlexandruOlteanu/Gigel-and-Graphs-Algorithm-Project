@@ -1,0 +1,15 @@
+./curatare.cpp:18:  Redundant blank line at the start of a code block should be deleted.  [whitespace/blank_line] [2]
+./curatare.cpp:39:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+./curatare.cpp:40:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+./curatare.cpp:55:  Redundant blank line at the start of a code block should be deleted.  [whitespace/blank_line] [2]
+./curatare.cpp:64:  Redundant blank line at the start of a code block should be deleted.  [whitespace/blank_line] [2]
+./curatare.cpp:75:  Redundant blank line at the start of a code block should be deleted.  [whitespace/blank_line] [2]
+./curatare.cpp:81:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+./curatare.cpp:83:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./curatare.cpp:86:  Redundant blank line at the end of a code block should be deleted.  [whitespace/blank_line] [3]
+./curatare.cpp:104:  Redundant blank line at the start of a code block should be deleted.  [whitespace/blank_line] [2]
+./curatare.cpp:105:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./curatare.cpp:132:  Could not find a newline character at the end of the file.  [whitespace/ending_newline] [5]
+Done processing ./_utils/verif.cpp
+Done processing ./curatare.cpp
+Total errors found: 12
