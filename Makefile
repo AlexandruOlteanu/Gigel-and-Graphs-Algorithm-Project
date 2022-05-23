@@ -8,7 +8,7 @@ run-p1:
 	./curatare
 
 run-p2:
-	./statistics
+	./fortificatii
 
 run-p3:
 	./beamdrone
